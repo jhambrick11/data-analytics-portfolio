@@ -1,0 +1,21 @@
+match_id,played_on,queue,map,map_type,hero,role,result,minutes_played,eliminations,deaths,assists,damage,healing,mitigation,data_source
+OW001,2026-10-02,Competitive,King's Row,Hybrid,Reinhardt,Tank,Win,9.5,22,7,10,6500,0,8200,SIMULATED
+OW002,2026-10-03,Competitive,Lijiang Tower,Control,D.Va,Tank,Loss,10.2,19,11,8,7100,0,5300,SIMULATED
+OW003,2026-10-04,Quick Play,Colosseo,Push,Sojourn,Damage,Win,8.4,26,6,5,7900,0,0,SIMULATED
+OW004,2026-10-05,Competitive,Circuit Royal,Escort,Ana,Support,Win,11.6,8,5,19,2200,6200,0,SIMULATED
+OW005,2026-10-06,Competitive,New Queen Street,Push,Soldier: 76,Damage,Loss,10.9,24,10,7,8200,0,0,SIMULATED
+OW006,2026-10-07,Competitive,Havana,Escort,Sigma,Tank,Win,12.1,18,6,9,5900,0,9100,SIMULATED
+OW007,2026-10-08,Competitive,Nepal,Control,Kiriko,Support,Loss,9.8,11,9,16,3100,4800,0,SIMULATED
+OW008,2026-10-09,Quick Play,Suravasa,Flashpoint,Ashe,Damage,Win,8.7,23,5,6,7600,0,0,SIMULATED
+OW009,2026-10-10,Competitive,Midtown,Hybrid,Reinhardt,Tank,Loss,10.7,16,10,8,5100,0,6800,SIMULATED
+OW010,2026-10-11,Competitive,Route 66,Escort,Baptiste,Support,Win,12.4,13,6,18,3900,5700,0,SIMULATED
+OW011,2026-10-12,Competitive,Samoa,Control,D.Va,Tank,Win,9.9,21,7,11,7400,0,8600,SIMULATED
+OW012,2026-10-13,Competitive,Esperanca,Push,Genji,Damage,Loss,10.5,20,12,4,6800,0,0,SIMULATED
+OW013,2026-10-14,Quick Play,King's Row,Hybrid,Tracer,Damage,Win,7.9,18,5,7,5400,0,0,SIMULATED
+OW014,2026-10-15,Competitive,Shambali Monastery,Escort,Moira,Support,Win,11.2,10,7,21,2800,6900,0,SIMULATED
+OW015,2026-10-16,Competitive,Oasis,Control,Sigma,Tank,Loss,10.8,17,9,8,5600,0,7900,SIMULATED
+OW016,2026-10-17,Competitive,New Junk City,Flashpoint,Kiriko,Support,Win,10.1,12,6,20,3500,5200,0,SIMULATED
+OW017,2026-10-18,Competitive,Runasapi,Push,Sojourn,Damage,Loss,11.0,21,11,5,7200,0,0,SIMULATED
+OW018,2026-10-19,Quick Play,Hollywood,Hybrid,Ana,Support,Win,8.2,7,4,17,1900,5100,0,SIMULATED
+OW019,2026-10-20,Competitive,Watchpoint: Gibraltar,Escort,D.Va,Tank,Win,12.7,25,8,12,8700,0,9900,SIMULATED
+OW020,2026-10-21,Competitive,Blizzard World,Hybrid,Soldier: 76,Damage,Win,10.6,27,7,6,9100,0,0,SIMULATED
